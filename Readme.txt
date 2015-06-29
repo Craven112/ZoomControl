@@ -16,4 +16,6 @@ More info on the Android app: https://github.com/Craven112/ZoomControl/wiki/Andr
 
 General info: https://github.com/Craven112/ZoomControl/wiki
 
+Video demonstrations: https://github.com/Craven112/ZoomControl/wiki/Videos
+
 Contact me: cdeenen@outlook.com
