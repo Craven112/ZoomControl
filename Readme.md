@@ -9,13 +9,12 @@ The footswitch controls the Zoom through the USB port and control port and can b
 There are currently two versions:
 * Full version: https://github.com/Craven112/ZoomControl/wiki/Full-Version
 * Standalone version https://github.com/Craven112/ZoomControl/wiki/Standalone-Version
- 
-Differences between the two: https://github.com/Craven112/ZoomControl/wiki/Standalone-vs-Full
 
-More info on the Android app: https://github.com/Craven112/ZoomControl/wiki/Android-app
 
-General info: https://github.com/Craven112/ZoomControl/wiki
-
+### More info 
+Differences between the two versions: https://github.com/Craven112/ZoomControl/wiki/Standalone-vs-Full  
+More info on the Android app: https://github.com/Craven112/ZoomControl/wiki/Android-app  
+General info: https://github.com/Craven112/ZoomControl/wiki  
 Video demonstrations: https://github.com/Craven112/ZoomControl/wiki/Videos
 
 Contact me: cdeenen@outlook.com
